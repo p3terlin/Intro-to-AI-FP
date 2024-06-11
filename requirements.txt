@@ -1,0 +1,14 @@
+numpy
+pytube
+moviepy
+openai
+pandas
+scikit-learn
+torch
+transformers
+nltk
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+deep-translator
+faster-whisper
